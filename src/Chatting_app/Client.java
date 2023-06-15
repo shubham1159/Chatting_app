@@ -195,8 +195,8 @@ public class Client  implements ActionListener {
 
 
             }
-        }catch(Exception E){
-                E.printStackTrace();
+        }catch(Exception e){
+                e.printStackTrace();
             }
 
         }
