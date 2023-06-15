@@ -196,8 +196,8 @@ public class Server  implements ActionListener {
                 }
             }
 
-        }catch (Exception E){
-            E.printStackTrace();
+        }catch (Exception e){
+            e.printStackTrace();
 
         }
     }
